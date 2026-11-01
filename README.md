@@ -1,0 +1,2 @@
+# CKSRT
+Classroom.cloud blocker
